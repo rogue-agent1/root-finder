@@ -1,14 +1,11 @@
-# root-finder
+# root_finder
 
-Root finding algorithms - bisection, Newton-Raphson, secant, Brent's method
+root_finder - Newton, bisection, secant, and Brent root finding.
+
+Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 root_finder.py --help
+python3 root_finder.py
 ```
-
-## Features
-
-- Zero dependencies (Python 3.8+ stdlib only)
-- Single file implementation
